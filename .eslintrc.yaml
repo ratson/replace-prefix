@@ -1,0 +1,4 @@
+extends:
+  - concise
+rules:
+  security/detect-non-literal-regexp: off
